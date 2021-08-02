@@ -10,7 +10,7 @@ class Translation(object):
 Join my group and channel enjoy your movie
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@create_tamilan
 </i>"""    
     
     HELP_TEXT = """
